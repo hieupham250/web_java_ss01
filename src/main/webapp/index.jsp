@@ -18,5 +18,7 @@
 <a href="bai6">Bài 6</a>
 <br>
 <a href="bai7">Bài 7</a>
+<br>
+<a href="bai8">Bài 8</a>
 </body>
 </html>
